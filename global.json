@@ -2,9 +2,9 @@
     "status": [
         {
             "IsUp": true,
-            "DownMsg": "Pro Swapper is currently not working. Take a look at our Discord for any announcments"
+            "DownMsg": "MoonWare is currently not working."
         }
     ],
-    "version": "0.9.2",
+    "version": "0.9.3",
     "discordurl": ""
 }
