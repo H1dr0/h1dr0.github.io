@@ -1,8 +1,9 @@
-"main":{ 
+{ 
   "Disable": false,
-  "DisableMessage": "test" 
-},
-"sub1":{
+  "DisableMessage": "test" ,
+
+ 
+	
   "PatchNotes1": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)\n[+] ur father\n[+] added best api made by hidro :)",
 	
   "Name1": "Polaris Stable",
