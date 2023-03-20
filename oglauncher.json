@@ -1,0 +1,19 @@
+"main":{ 
+  "Disable": false,
+  "DisableMessage": "test" 
+},
+"sub1":{
+  "PatchNotes1": "[+] Polaris Extra Safe verison (a version of polaris with no recovery features)\n[+] ur father\n[+] added best api made by hidro :)",
+	
+  "Name1": "Polaris Stable",
+  
+  "Game1": "Grand Theft Auto",
+
+  "Version1": "0.0.3",
+  
+  "Status1": "Undetected",
+
+  "Updated1": "1970/01/01",
+
+  "Download1": "691228"
+}
