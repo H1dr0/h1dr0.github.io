@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "button1",
+        "Text": "Button 1",
+        "X": 10,
+        "Y": 10,
+        "Width": 75,
+        "Height": 23,
+        "ClickCode": "using System; using System.Windows.Forms; public class ButtonClickHandler { public static void Click(Form1 form, Button button) { MessageBox.Show(\"Button 1 clicked\"); } }"
+    },
+    {
+        "Name": "button2",
+        "Text": "Button 2",
+        "X": 100,
+        "Y": 10,
+        "Width": 75,
+        "Height": 23,
+        "ClickCode": "using System; using System.Windows.Forms; public class ButtonClickHandler { public static void Click(Form1 form, Button button) { MessageBox.Show(\"Button 2 clicked\"); } }"
+    },
+    {
+        "Name": "button3",
+        "Text": "Button 3",
+        "X": 190,
+        "Y": 10,
+        "Width": 75,
+        "Height": 23,
+        "ClickCode": ""
+    }
+]
